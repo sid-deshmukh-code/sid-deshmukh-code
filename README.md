@@ -59,15 +59,15 @@
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/sid-deshmukh-code/count.svg" alt="Visitor Count"/>
-  <br/>
-  <sub>Tracking profile views since creation</sub>
+  <img src="https://komarev.com/ghpvc/?username=sid-deshmukh-code&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
 
 
 ---
 
 ⭐ *“Learning never stops — especially in tech.”*
+
 
 
 
