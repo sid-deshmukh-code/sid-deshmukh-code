@@ -49,7 +49,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siddhantdeshmukh-cyber&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantdeshmukh-cyber&layout=compact&theme=dracula" />
 </p>
+
 
 ---
 
@@ -62,3 +64,4 @@
 ---
 
 ⭐ *“Learning never stops — especially in tech.”*
+
