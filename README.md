@@ -3,7 +3,8 @@
 
 # 👋 Hi, I'm Siddhant Deshmukh
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=%2303FC30&center=true&vCenter=true&width=550&lines=Aspiring+Software+Developer;Linux+%7C+Python+%7C+Backend+Enthusiast;Learning+by+Building+%E2%9A%99%EF%B8%8F)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&weight=600&color=2F81F7&center=true&vCenter=true&width=550&lines=Aspiring+Software+Developer;Linux+%7C+Python+%7C+Backend+Enthusiast;Learning+by+Building+⚙️)](#)
+
 
 ---
 
@@ -67,6 +68,7 @@
 ---
 
 ⭐ *“Learning never stops — especially in tech.”*
+
 
 
 
