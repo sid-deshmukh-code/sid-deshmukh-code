@@ -48,8 +48,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhantdeshmukh-cyber&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantdeshmukh-cyber&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sid-deshmukh-code&show_icons=true&theme=dracula" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-deshmukh-code&layout=compact&theme=dracula" />
 </p>
 
 
@@ -58,10 +59,11 @@
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/siddhantdeshmukh-cyber/count.svg" />
+  <img src="https://profile-counter.glitch.me/sid-deshmukh-code/count.svg" />
 </p>
 
 ---
 
 ⭐ *“Learning never stops — especially in tech.”*
+
 
